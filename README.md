@@ -7,4 +7,4 @@
 - 📫 How to reach me: Send me an email at pdagrawala@gmail.com
 - 😄 Pronouns: He/His/Him
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${pdagrawal}.${473809467})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
