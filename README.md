@@ -7,6 +7,6 @@
 - 📫 How to reach me: Send me an email at pdagrawala@gmail.com
 - 😄 Pronouns: He/His/Him
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=pdagrawal.pdagrawal)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdagrawal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
