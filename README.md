@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pdagrawal/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/pd_agrawal/)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-ffa218?style=flat-square&logo=Leetcode&logoColor=white)](https://leetcode.com/pdagrawal/)
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pdagrawal.pdagrawal)
 
