@@ -14,7 +14,6 @@ I have worked with Ruby on Rails, Python and Django, Nodejs, AWS Cloud, MS Azure
 - 👯 I’m looking to collaborate on some ideas I have or may be any idea you might have.
 - 💬 Ask me about Ruby on Rails, Python, AWS Cloud, Database Designs etc
 - 📫 How to reach me: Send me an email at pdagrawala@gmail.com
-- 😄 Pronouns: He/His/Him
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdagrawal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
