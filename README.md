@@ -10,9 +10,9 @@ I am a full-stack software engineer. I love programming, solving complex problem
 
 I have worked with Ruby on Rails, Python and Django, Nodejs, AWS Cloud, MS Azure, Creating REST APIs, and DB designs. These days I have been studying Information Retrieval, Algorithms, Artificial Intelligence, and Machine Learning.
 
-- 🔭 I’m currently working on a product to help people living abroad.
-- 👯 I’m looking to collaborate on some ideas I have or may be any idea you might have.
-- 💬 Ask me about Ruby on Rails, Python, AWS Cloud, Database Designs etc
+- 🔭 I’m working on a product to help people living abroad.
+- 👯 I’m looking to collaborate on some ideas I have or any ideas you might have.
+- 💬 Ask me about Java, Spring Boot, Ruby on Rails, Python, Django, AWS Cloud, Database Designs etc
 - 📫 How to reach me: Send me an email at pdagrawala@gmail.com
 
 <p>
