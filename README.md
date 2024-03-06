@@ -16,6 +16,6 @@ I have worked with Ruby on Rails, Python and Django, Nodejs, AWS Cloud, MS Azure
 - 📫 How to reach me: Send me an email at pdagrawala@gmail.com
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdagrawal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdagrawal&show=prs_merged,prs_merged_percentage&show_icons=true&theme=swift" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdagrawal&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=swift"/>
 </p>
