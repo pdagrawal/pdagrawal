@@ -6,12 +6,10 @@
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pdagrawal.pdagrawal)
 
-I am a full-stack software engineer. I love programming, solving complex problems and query optimization.
+I am a software engineer. I love programming, solving complex problems, and designing system architectures for robust and reliable services.
 
-I have worked with Ruby on Rails, Python and Django, Nodejs, AWS Cloud, MS Azure, Creating REST APIs, and DB designs. These days I have been studying Information Retrieval, Algorithms, Artificial Intelligence, and Machine Learning.
+I have worked with Java, Spring Boot, Ruby on Rails, Python, Django, Nodejs, AWS Cloud, MS Azure, Creating REST APIs, and DB designs. These days I am working as Software Engineer II at DriftNet doing some amazing work related to school safety and security using Information Retrieval, Algorithms, Artificial Intelligence, and Machine Learning.
 
-- 🔭 I’m working on a product to help people living abroad.
-- 👯 I’m looking to collaborate on some ideas I have or any ideas you might have.
 - 💬 Ask me about Java, Spring Boot, Ruby on Rails, Python, Django, AWS Cloud, Database Designs etc
 - 📫 How to reach me: Send me an email at pdagrawala@gmail.com
 
